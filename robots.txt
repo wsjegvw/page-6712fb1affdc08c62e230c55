@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://5mc10b.cn/sitemap.xml
